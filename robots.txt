@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mriazisr.github.io/vremena-goda/sitemap.xml
